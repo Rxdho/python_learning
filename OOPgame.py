@@ -1,3 +1,6 @@
+# The code structure, logic, or algorithms here were built within a day of learning them. Feel free to tweak or simplify anything if you’ve got a more effective or shorter way to do it. Everything here comes from my own learning process.
+
+
 import random
 import time
 import sys
@@ -805,3 +808,4 @@ if return_to_menu:
 #Copyright (c) 2025 Ridho Maulana Yusuf
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy.
+
